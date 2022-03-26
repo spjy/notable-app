@@ -24,6 +24,9 @@ yarn dev
 ## Endpoints
 
 GET /doctors - retrieves all doctors
+
 GET doctor/appointments
+
 DELETE /doctor/appointment/delete
+
 POST /doctor/appointment/add
